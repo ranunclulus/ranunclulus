@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=header&text=yoongja&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=ranunclulus&fontSize=90)
 <h2 align="center"> Hello there 👋 , this is yoongja 👋 </h2>
 
 ***
@@ -27,7 +27,7 @@
   <li>💛2022.12~ 2023.02 Backend Intern</li>
   <li>🤍2022경희봄 프로그래밍대회 입상</li>
 </div>
-
+***
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranunclulus&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=ranunclulus&show_icons=true">
