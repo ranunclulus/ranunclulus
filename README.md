@@ -1,30 +1,32 @@
+![header](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=header&text=yoongja&fontSize=90)
+<h2 align="center"> Hello there 👋 , this is yoongja 👋 </h2>
+
+***
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Huisu's%20Github&fontSize=90" />
+  👩‍💻I'm a Computer Engineering student at KHU
+
+  <li><center>✨I am interested in the server.</center></li>
+  <li>🌊I like to see and feel new things.</li>
+  <li>🧘‍♀️I like to do yoga.</li>
+
 </div>
-
-<!--
-**ranunclulus/ranunclulus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<a href="https://www.java.com/ko/"><img src="https://img.shields.io/badge/Java-F58219?style=flat-square&logo=Java&logoColor=white"/></a>
-<a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/SpringBoot-6AAE3D?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
-<a href="https://spring.io/projects/spring-data-jpa"><img src="https://img.shields.io/badge/Spring Data JPA-6AAE3D?style=flat-square&logo=&logoColor=white"/></a>
-<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/Npm-red?style=flat-square&logo=Npm&logoColor=white"/></a>
-<a href="https://nodejs.org/en"><img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=Node.js&logoColor=white"/></a>
-<a href="https://aws.amazon.com/ko/?nc2=h_lg"><img src="https://img.shields.io/badge/AWS-F89501?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>  
-
+  <br>
+<div align="center">
+  <h3>My values🔥</h3>
+  🌹I believe in the possibilities.
+  <br>
+  🌹I don't hesitate to learn new things.
+  
+  <br>
+  <h3>Activities🌙</h3>
+  <br>
+  <li>🖤2021.03 ~ 2022.12 경희대 컴퓨터공학과 학생회 홍보부</li>
+  <li>💛2022.03 ~ 2022.07 CJ UNIT</li>
+  <li>🖤2022.11 ~ ing 42Seoul</li>
+  <li>💛2022.12~ 2023.02 Backend Intern</li>
+  <li>🤍2022경희봄 프로그래밍대회 입상</li>
+</div>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranunclulus&layout=compact"><br><br>
