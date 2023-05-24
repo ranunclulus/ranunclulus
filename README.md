@@ -1,6 +1,6 @@
 
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=ranunclulus&fontSize=90)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=ranunclulus&fontSize=90" />
  </div>
 <h2 align="center"> Coding Archive 🍫 </h2>
 
