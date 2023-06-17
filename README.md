@@ -59,8 +59,12 @@
 
 ![Ranunclulus's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=ranunclulus)
 
+
+\\<!--
 <br>
-//<p>🏆 Baekjoon solved rank 🏆</p>
+<p>🏆 Baekjoon solved rank 🏆</p>
 	
-//[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=morion002)](https://solved.ac/morion002)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=morion002)](https://solved.ac/morion002)
 </div>
+
+-->
