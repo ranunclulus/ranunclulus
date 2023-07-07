@@ -59,5 +59,5 @@
 
 ![Ranunclulus's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=ranunclulus)
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=morion002)](https://solved.ac/morion002/)
 
