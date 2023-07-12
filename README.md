@@ -39,15 +39,9 @@
 <p>🎱 BOJ Profile 🎱</p>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ranunclulus)](https://solved.ac/ranunclulus)
+<br>
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ranunclulus&theme=dark)
 
-</div>
-
-
-<div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
-</div>
-	<img src="http://mazandi.herokuapp.com/api?handle=ranunclulus&theme=warm"/>
 </div>
 
 <div align=center>
