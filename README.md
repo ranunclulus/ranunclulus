@@ -2,7 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ranunclulus&fontSize=90" />	
 </div>
 <div align=center>
-	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%237B7B7B&title_bg=%23000000&icon=&icon_color=%23A66565&title=hits&edge_flat=false"/></a>
+	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Franunclulus%2Fhit-counter&count_bg=%237B7B7B&title_bg=%23000000&icon=&icon_color=%23A66565&title=hits&edge_flat=false"/></a>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
