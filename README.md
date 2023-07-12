@@ -35,22 +35,24 @@
 </div>
 <br>
 <div align=center>
+	<p>🎱 BOJ 🎱🛠</p>
+</div>
+<div align=center>
+	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" />
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+</div>
+<br>
+<div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-	<a href="[https://velog.io/@morion002](https://blog.naver.com/morion002)">
-		<img src="https://img.shields.io/badge/Blog-03C75A?style=flat&logo=storyblok&logoColor=white" />
-	</a>
-	<a href="https://velog.io/@morion002">
-		<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" />
-	</a>
-	<a href="morion002@gmail.com">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-	</a>
-	<a href="https://ranunclulus.notion.site/Study-07caaa7581ec44f8a9e99efaf33cce86">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-	</a>
-	<br>
+	[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ranunclulus)](https://solved.ac/racnunclulus)
+	  <img src="http://mazandi.herokuapp.com/api?handle=ranunclulus&theme=warm"/>
 </div>
 <div align=center>
 	<br>
