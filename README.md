@@ -49,6 +49,8 @@
 <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ranunclulus)](https://solved.ac/racnunclulus)
 <div align=center>
 	[![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ranunclulus)](https://solved.ac/racnunclulus)
