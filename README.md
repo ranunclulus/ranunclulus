@@ -33,29 +33,23 @@
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
-<br>
-<div align=center>
-	<p>🎱 BOJ 🎱🛠</p>
+
+
+<div align="center">
+<p>🎱 BOJ Profile 🎱</p>
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ranunclulus)](https://solved.ac/ranunclulus)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=ranunclulus&theme=dark)
+
 </div>
-<div align=center>
-	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-	<br>
-	<img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" />
-	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-</div>
-<br>
+
+
 <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ranunclulus)](https://solved.ac/racnunclulus)
-<div align=center>
-	[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ranunclulus)](https://solved.ac/racnunclulus)
-	  <img src="http://mazandi.herokuapp.com/api?handle=ranunclulus&theme=warm"/>
+	<img src="http://mazandi.herokuapp.com/api?handle=ranunclulus&theme=warm"/>
 </div>
+
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranunclulus&layout=compact"><br><br>
