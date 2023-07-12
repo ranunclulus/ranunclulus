@@ -34,13 +34,13 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 
-
+<br>
 <div align="center">
 <p>🎱 BOJ Profile 🎱</p>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ranunclulus)](https://solved.ac/ranunclulus)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=morion002)](https://solved.ac/morion002)
 <br>
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=ranunclulus&theme=dark)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=morion002&theme=dark)
 
 </div>
 
