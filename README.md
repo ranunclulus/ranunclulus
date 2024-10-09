@@ -36,11 +36,9 @@
 <br>
 <div align="center">
 <p>🎱 BOJ Profile 🎱</p>
-
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=morion002)](https://solved.ac/morion002)
 <br>
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=morion002&theme=dark)
-
 </div>
 
 <div align=center>
