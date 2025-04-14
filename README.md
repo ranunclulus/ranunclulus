@@ -5,6 +5,8 @@
 	<a href="https://hits.seeyoufarm.com"><img src="https://capsule-render.vercel.app/api?type=venom&color=5fefff&height=300&section=header&text=ranunclulus"/></a>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
+
+
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
